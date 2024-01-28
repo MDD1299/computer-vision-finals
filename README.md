@@ -2,9 +2,9 @@
 
 ## As part of the Final Activity for our subject Computer Vision
 
-##Project Demonstration: 
-##https://drive.google.com/drive/u/2/folders/1Sxlsy1trq8g9pfVCikwrfEwfNZ1L5svf
-##https://www.youtube.com/watch?v=OXSwNrPAzVs
+## Project Demonstration: 
+## https://drive.google.com/drive/u/2/folders/1Sxlsy1trq8g9pfVCikwrfEwfNZ1L5svf
+## https://www.youtube.com/watch?v=OXSwNrPAzVs
 
 ### Introduction
 Generative Adversarial Networks (GANs) represent a cutting-edge approach in generative modeling within deep learning. These networks, often based on convolutional neural networks, aim to autonomously discern patterns in input data, allowing the generation of new examples closely resembling the original dataset. GANs involve two key components: the generator, creating novel examples, and the discriminator, distinguishing between genuine and generated instances. Through adversarial training, these models engage in a competitive interplay, resulting in the generator producing realistic samples, challenging the discriminator approximately half of the time (GeeksforGeeks, 2023).
