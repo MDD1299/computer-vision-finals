@@ -1,7 +1,5 @@
 # Generative AI: GANs Implementation on Flask Framework
 
-## As part of the Final Activity for our subject Computer Vision
-
 ## Project Demonstration: 
 ### https://drive.google.com/drive/u/2/folders/1Sxlsy1trq8g9pfVCikwrfEwfNZ1L5svf
 ### https://www.youtube.com/watch?v=OXSwNrPAzVs
@@ -13,9 +11,6 @@ Generative Adversarial Networks (GANs) represent a cutting-edge approach in gene
 1. **Unsupervised Representation Learning with DCGANs**
 2. **Facial Parts Responses to Face Detection**
 3. **Joint Face Detection and Alignment using MTCNN**
-
-### Course Topic
-This course focuses on developing and deploying a GAN model for generating realistic faces using the CelebA Face Dataset, with a final implementation in Flask. The course employs Python, TensorFlow, Flask, and HTML/CSS, providing a practical skill set in deep learning and web development. The course covers two key models: the Generator and the Discriminator.
 
 - **Generator Model:** Neural network creating synthetic data, transforming random noise into realistic samples.
 - **Discriminator Model:** Evaluates and classifies input data as real or generated. Trains simultaneously with the Generator in an adversarial loop.
